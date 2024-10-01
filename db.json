@@ -1,22 +1,76 @@
 {
-  "students": [
+  "QuizAPP": [
     {
-      "id": "ef48",
-      "name": "",
-      "number": "",
-      "course": "full stack"
+      "id": "6bf4",
+      "que": "Q 1 - Which of the following is correct about features of JavaScript?",
+      "a": "A - JavaScript is is complementary to and integrated with HTML.",
+      "b": "B - JavaScript is open and cross-platform.",
+      "c": "C - Both of the above.",
+      "d": "D - All of the above.",
+      "ans": "C - Both of the above."
     },
     {
-      "id": "2741",
-      "name": "java",
-      "number": "7777996541",
-      "course": "backend"
+      "id": "88b0",
+      "que": "Q 2 - Which of the following is true about cookie handling in JavaScript?",
+      "a": "A - JavaScript can manipulate cookies using the cookie property of the Document object.",
+      "b": "B - JavaScript can read, create, modify, and delete the cookie or cookies that apply to the current web page.",
+      "c": "C - Both of the above.",
+      "d": "D - None of the above.",
+      "ans": "C - Both of the above."
     },
     {
-      "id": "3d71",
-      "name": "mongodb",
-      "number": "65",
-      "course": "backend"
+      "id": "d783",
+      "que": "Which built-in method removes the last element from an array and returns that element?",
+      "a": "A - last()",
+      "b": "B - get()",
+      "c": "C - pop()",
+      "d": "D - None of the above.",
+      "ans": "C - pop()"
+    },
+    {
+      "id": "766c",
+      "que": "Which built-in method returns the string representation of the number's value?",
+      "a": "A - toValue()",
+      "b": "B - toNumber()",
+      "c": "C - toString()",
+      "d": "D - None of the above.",
+      "ans": "C - toString()"
+    },
+    {
+      "id": "98c4",
+      "que": "Which of the following function of Number object returns a string value version of the current number in a format that may vary according to a browser's locale settings.?",
+      "a": "A - toFixed()",
+      "b": "B - toLocaleString()",
+      "c": "C - toExponential()",
+      "d": "D - toString()",
+      "ans": "B - toLocaleString()"
+    },
+    {
+      "id": "285b",
+      "que": "Which of the following function of String object returns the characters in a string beginning at the specified location through the specified number of characters?",
+      "a": "A - slice()",
+      "b": "B - split()",
+      "c": "C - search()",
+      "d": "D - substr()",
+      "ans": "D - substr()"
+    },
+    {
+      "id": "ec3a",
+      "que": "Which of the following function of String object causes a string to be displayed in a small font, as if it were in a <small> tag?",
+      "a": "A - link()",
+      "b": "B - small()",
+      "c": "C - sup()",
+      "d": "D - sub()",
+      "ans": "B - small()"
+    },
+    {
+      "id": "1e78",
+      "question": "Which built-in method removes the last element from an array and returns that element?",
+      "choice1": "A - JavaScript is is complementary to and integrated with HTML.",
+      "choice2": "B - get()",
+      "choice3": "C - pop()",
+      "choice4": "D - toString()",
+      "answer": "D - toString()"
     }
   ]
 }
